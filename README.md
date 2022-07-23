@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Developerhamid
 - 👀 I’m interested in ... web development
-- 🌱 I’m currently learning ... full stack Development
+- 🌱 I’m currently learning ... Front End Development
 - 💞️ I’m looking to collaborate on ... Software Development
 - 📫 How to reach me ... iamdeveloperhamid@gmail.com
 
